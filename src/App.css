@@ -1,0 +1,25 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+#root {
+  display: flex;
+  
+   
+  width: 100vw;
+  height: 100vw;
+  
+  
+}
+.contenedor, html{
+  
+  width: 100vw;
+  height: 100vw;
+  background-color: blanchedalmond;
+}
+
+
+
+

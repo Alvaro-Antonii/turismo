@@ -1,0 +1,10 @@
+.card{
+    margin: 10px;
+    padding: 0;
+    width: 40vh;
+     height: 45vh;
+}
+.card:hover {
+    cursor: pointer;
+    
+}
