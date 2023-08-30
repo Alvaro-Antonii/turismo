@@ -4,6 +4,7 @@ import './App.css'
 import Header from './components/Header'
 import Carousel from './components/Carousel'
 import { Centro } from './components/Centro'
+import Lugares from './components/Lugares'
 
 function App() {
   
@@ -14,7 +15,7 @@ function App() {
       <Header/>
       <Carousel/>
       <Centro/>
-       
+      <Lugares/>
       </>
 
     </div>
