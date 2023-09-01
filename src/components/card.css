@@ -8,3 +8,9 @@
     cursor: pointer;
     
 }
+p{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}

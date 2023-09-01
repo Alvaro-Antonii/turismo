@@ -17,9 +17,13 @@
   
   width: 100vw;
   height: 100vw;
-  background-color: blanchedalmond;
+  background-color: rgb(157, 169, 180);
 }
 
-
+.container{
+  padding: 3vh;
+  background-color: rgb(25, 72, 116);
+  margin-bottom: 10px;
+}
 
 
