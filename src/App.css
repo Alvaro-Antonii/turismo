@@ -17,12 +17,12 @@
   
   width: 100vw;
   height: 100vw;
-  background-color: rgb(157, 169, 180);
+  background-color: rgb(250, 250, 250);
 }
 
 .container{
   padding: 3vh;
-  background-color: rgb(25, 72, 116);
+  background-color: rgb(166, 195, 223);
   margin-bottom: 10px;
 }
 

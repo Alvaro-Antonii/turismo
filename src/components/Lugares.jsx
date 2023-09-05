@@ -3,7 +3,7 @@ import { Card } from './Card'
 import "./lugares.css"
 export default function Lugares() {
   return (
-    <div className='container'>
+    <div className='container' id='lug'>
         <h2>ASIA</h2>
         <div className="row">
             <div className="col"><Card url={"https://github.com/Alvaro-Antonii/img/blob/main/asia-landi.jpg?raw=true"} lug={"Japón"}/></div>

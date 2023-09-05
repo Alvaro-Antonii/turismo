@@ -6,6 +6,9 @@
 }
 .card:hover {
     cursor: pointer;
+    transform: scale(1.2);
+    font-size: 55px;
+    color: brown;
     
 }
 p{

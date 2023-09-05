@@ -1,0 +1,7 @@
+.IntermedioDiv{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(247, 245, 242);
+    display: flex;
+    justify-content: center;
+}

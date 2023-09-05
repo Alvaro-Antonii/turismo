@@ -7,7 +7,7 @@ import { Centro } from './components/Centro'
 import Lugares from './components/Lugares'
 import Formulario from './components/Formulario'
 import Footer from './components/Footer'
-
+import Intermedio from './components/Intermedio'
 function App() {
   
 
@@ -15,6 +15,7 @@ function App() {
     <div className='contenedor'>
       <>
       <Header/>
+      <Intermedio/>
       <Carousel/>
       <Centro/>
       <Lugares/>

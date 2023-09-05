@@ -39,11 +39,7 @@ export default function Header() {
             </nav>
         <div className='primero' style={{justifyContent:'center',alignContent:'center',backgroundRepeat: 'no-repeat', backgroundPosition: 'center center' }}>
             <img src="https://github.com/Alvaro-Antonii/img/blob/main/banner.png?raw=true" alt="" className='d-block w-100'/>
-            <div className='cont-bot'>
-                <Boton cont={"Asia"}/>
-                <Boton cont={"Europa"}/>
-                <Boton cont={"América"}/>
-            </div>
+            
                 
 
             
