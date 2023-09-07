@@ -1,13 +1,15 @@
 import React from 'react'
 import "./intermedio.css"
-import Boton from './Boton'
+
+import Conten from './Conten'
 export default function Intermedio() {
   return (
     <div className='IntermedioDiv'>
-        <div className="row">
-            <div className="col-4"><Boton cont={"Asia"}/></div>
-            <div className="col-4"><Boton cont={"Europa"}/></div>
-            <div className="col-4"><Boton cont={"América"}/></div>
+        <div className="row " style={{display:"flex",justifyContent:"center"}}>
+            <div className="col"><Conten conti={"Asia"} ima={"https://randomuser.me/api/portraits/men/64.jpg"} tex={"loremipsummmmm"}/></div>
+            <div className="col"><Conten conti={"Europa"} ima={"https://randomuser.me/api/portraits/women/20.jpg"} tex={"loremipsummmmm"}/></div>
+            <div className=" col"><Conten conti={"America"} ima={"https://randomuser.me/api/portraits/men/41.jpg"} tex={"loremipsummmmm"}/></div>
+            
         </div>
                 
     </div>

@@ -5,7 +5,7 @@
   }
 .centro{
     margin: 0 auto;
-    width: 100vw;
+    max-width: 905px;
     height: 50vw;
     background-color: rgb(238, 238, 242);
     display: flex;
