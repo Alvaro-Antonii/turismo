@@ -17,3 +17,6 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
 }
+.card-img-top{
+    height: 40vh;
+}

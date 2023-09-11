@@ -3,10 +3,16 @@
     
         margin: 5px;
         padding: 0;
-        width: 28vh;
-        height: 40vh;
+        width: 38vh;
+        height: 50vh;
     
 }
+.profile-card-2 .card-text:hover{
+    font-weight:100;
+    font-size:15px;
+    
+}
+
 .profile-card-2 .card-img-block{
     float:left;
     width:100%;
@@ -32,29 +38,6 @@
     color:#6ab04c;
 }
 .profile-card-2 .card-text{
-    font-weight:300;
-    font-size:15px;
-}
-.profile-card-2 .icon-block{
-    float:left;
-    width:100%;
-}
-.profile-card-2 .icon-block a{
-    text-decoration:none;
-}
-.profile-card-2 i {
-  display: inline-block;
-    font-size: 16px;
-    color: #6ab04c;
-    text-align: center;
-    border: 1px solid #6ab04c;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    border-radius: 50%;
-    margin:0 5px;
-}
-.profile-card-2 i:hover {
-  background-color:#6ab04c;
-  color:#fff;
+    font-weight:100;
+    font-size:9px;
 }

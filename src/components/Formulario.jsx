@@ -4,6 +4,7 @@ import "./formulario.css"
 export default function Formulario() {
   return (
     <div className='container' id='formulario'>
+        <h2>Contacto</h2>
         <form class="row g-3">
             <div class="col-md-5">
                 <label for="inputNombre" class="form-label">Nombre</label>
