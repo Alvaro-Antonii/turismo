@@ -1,6 +1,7 @@
 import React from 'react'
 import "./centro.css"
-import Caru from './caru'
+import Carru from './Carru'
+
 export const Centro = () => {
   return (
     <>
@@ -12,7 +13,7 @@ export const Centro = () => {
             <img className='img-uni' src="https://github.com/Alvaro-Antonii/img/blob/main/car0.png?raw=true" alt="" />
           </div>
           <div className="col">
-            <Caru></Caru>
+            <Carru></Carru>
           </div>
         </div>
         
