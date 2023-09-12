@@ -1,6 +1,7 @@
 import React from 'react'
 import "./centro.css"
 import Carru from './Carru'
+import Cardhori from './Cardhori'
 
 export const Centro = () => {
   return (
@@ -10,7 +11,8 @@ export const Centro = () => {
         <div className="row ">
           <div className="col-12"><h2>Descubrí nuestras ofertas en los mejores destinos.</h2></div>
           <div className="col">
-            <img className='img-uni' src="https://github.com/Alvaro-Antonii/img/blob/main/car0.png?raw=true" alt="" />
+            <Cardhori url={"https://github.com/Alvaro-Antonii/img/blob/main/car0.png?raw=true"}></Cardhori>
+            
           </div>
           <div className="col">
             <Carru></Carru>
