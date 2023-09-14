@@ -6,32 +6,32 @@ export default function Footer() {
     
         <footer class="bg-dark text-center text-white">
               {/* <!-- Grid container --> */}
-              <div class="">
+              <div class="mt-5">
                   {/* <!-- Section: Social media --> */}
-                  <section class="mb-4">
+                  <section class="mt-5 p-5">
                       {/* <!-- Facebook --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-facebook-f"></i></a>
+                      ><i class="fa fa-facebook-f"></i></a>
 
                       {/* <!-- Twitter --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-twitter"></i></a>
+                      ><i class="fa fa-twitter"></i></a>
 
                       {/* <!-- Google --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-google"></i></a>
+                      ><i class="fa fa-google"></i></a>
 
                       {/* <!-- Instagram --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-instagram"></i></a>
+                      ><i class="fa fa-instagram"></i></a>
 
                       {/* <!-- Linkedin --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-linkedin-in"></i></a>
+                      ><i class="fa fa-linkedin"></i></a>
 
                       {/* <!-- Github --> */}
                       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                      ><i class="fab fa-github"></i></a>
+                      ><i class="fa fa-github"></i></a>
                   </section>
                   {/* <!-- Section: Social media --> */}
               </div>
@@ -39,8 +39,8 @@ export default function Footer() {
 
               {/* <!-- Copyright --> */}
               <div class="text-center p-3" >
-                  © 2020 Copyright:
-                  <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+                  © 2023 Copyright:
+                  <a class="text-white" href="https://porfolio-alvaro-sanchez.netlify.app/">Alvaro Sanchez</a>
               </div>
               {/* <!-- Copyright --> */}
           </footer>
